@@ -1,0 +1,21 @@
+// Place all the styles related to the articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.article-card {
+  margin: 10px;
+  padding: 10px;
+  border: 1px #374048 solid;
+  h1 {
+    color: #337ab7;
+    font-weight: 400;
+    font-size: 30px;
+  }
+  a {
+    text-decoration: none;
+  }
+  h2 {
+    font-weight: 300;
+    font-size: 120%;
+  }
+}
